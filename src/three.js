@@ -1,3 +1,3 @@
 const obj = {
-    one :'one'
+    three :'3'
 }
